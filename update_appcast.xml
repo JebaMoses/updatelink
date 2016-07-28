@@ -19,8 +19,10 @@
                     </ul>
                 ]]></description>
             <pubDate>Thursday, 28 Jul 2016 12:30:00 +0000</pubDate>
-            <sparkle:version>1.2.0</sparkle:version>
-            <link>http://appyogi.com/apps/whatschat/</link>
+           <enclosure url="https://github.com/stonesam92/ChitChat/releases/download/1.4.1/ChitChat.zip"
+               sparkle:version="1.4.1"
+               type="application/octet-stream" />
+           <link>http://appyogi.com/apps/whatschat/</link>
          </item>
              </channel>
 </rss>
