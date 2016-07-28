@@ -1,16 +1,20 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>All in One Messenger</title>
-        <link>http://samstonedev.com/update_feed.xml</link>
+        <link>http://appyogi.com/</link>
         <description>A native Mac app wrapper for Multiple Messengers</description>
         <language>en</language>
         <item>
             <title>Version 1.0.0</title>
             <description><![CDATA[
                 <h4>NOTE: This update cannot be applied automatically and must be downloaded manually by clicking "Learn More"</h4>
-                    <h2>Changes</h2>
+                    <h2>Features</h2>
                     <ul>
                         <li>All in one messenger for all your communication needs</li>
+                        <li>Notification for all meesengers</li>
+                        <li>Reply from notification</li>
+                         <li>You can select your prefered notification sound</li>
+                          <li>Menu bar icon represents the number of notifications in indicidual messsengers</li>
 
                     </ul>
                 ]]></description>
