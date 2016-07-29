@@ -2,7 +2,7 @@
     <channel>
         <title>All in One Messenger</title>
         <link>http://appyogi.com/</link>
-        <description>A native Mac app wrapper for Multiple Messengers</description>
+        <description>All in One Messenger is a native Mac app wrapper for Multiple Messengers</description>
         <language>en</language>
         <item>
             <title>Version 1.0.0</title>
@@ -19,10 +19,8 @@
                     </ul>
                 ]]></description>
             <pubDate>Thursday, 28 Jul 2016 12:30:00 +0000</pubDate>
-           <enclosure url="https://github.com/stonesam92/ChitChat/releases/download/1.4.1/ChitChat.zip"
-               sparkle:version="1.2.1"
-               type="application/octet-stream" />
-               <link>http://appyogi.com/apps/whatschat/</link>
+             <sparkle:version>1.2.0</sparkle:version>
+             <link>http://appyogi.com/apps/whatschat/</link>
              </item>
              </channel>
 </rss>
